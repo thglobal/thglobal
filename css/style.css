@@ -154,7 +154,7 @@ button:hover {
 
 /*--//wrapper--*/
 .w3l-e-61-4 .e-61-m {
-  background: url(../images/banner1.jpg) no-repeat bottom;
+  background: url("https://i.loli.net/2020/08/30/4WsHSwyTcJBD9GP.jpg") no-repeat bottom;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -324,7 +324,7 @@ background:transparent;
 
 @media (max-width:600px) {
   .w3l-e-61-4 .e-61-m {
-    background: url(../images/banner1.jpg) no-repeat right;
+    background: url("https://i.loli.net/2020/08/30/4WsHSwyTcJBD9GP.jpg") no-repeat right;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
